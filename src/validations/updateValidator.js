@@ -5,7 +5,7 @@ moment.locale('es');
 
  module.exports = [
 
-    check('title')
+    /* check('title')
                   .notEmpty().withMessage('Requerido'),
             
     check('start')
@@ -28,9 +28,9 @@ moment.locale('es');
                     } else {
                         return true
                     }
-                  }).withMessage('la fecha de finalizacion debe ser posterior a la fecha de inicializacion'),
+                  }).withMessage('la fecha de finalizacion debe ser posterior a la fecha de inicializacion'), */
 
-               
+      
 
 
  ];
